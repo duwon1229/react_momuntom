@@ -4,4 +4,4 @@ const getTime = (): void => {
   console.log("hello");
 };
 
-export default Clock;
+export {};
