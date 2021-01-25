@@ -1,7 +1,10 @@
 import React from "react";
 
 const getTime = (): void => {
-  console.log("hello");
+  const time = Date();
+  console.log(time);
 };
 
-export {};
+getTime();
+
+export default {};
